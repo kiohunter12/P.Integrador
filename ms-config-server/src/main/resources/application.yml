@@ -8,6 +8,11 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/noetipo/DAD-2024-G1.git # ruta del repositorio git
+          uri: https://github.com/kiohunter12/P.Integrador.git # ruta del repositorio git
           searchPaths: config-data
           default-label: main
+
+  security:
+    user:
+      name: root
+      password: 123456

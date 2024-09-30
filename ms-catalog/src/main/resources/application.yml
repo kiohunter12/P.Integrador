@@ -11,6 +11,13 @@
 #springdoc.swagger-ui.enabled=true
 #springdoc.swagger-ui.path=/doc/swagger-ui.html
 
+spring:
+  application:
+    name: ms-catalog-service
+  profiles:
+    active: development
+  config:
+    import: optional:configserver:http://root:123456@localhost:7070
 
 
 
