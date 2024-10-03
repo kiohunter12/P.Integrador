@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef9bf067-7136-47d1-97ee-18b0f06ca551" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../config-data/ms-order-service.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ms-catalog/src/main/java/com/example/mscatalog/controller/ProductController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ms-catalog/src/main/java/com/example/mscatalog/entity/Product.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ms-catalog/src/main/java/com/example/mscatalog/repository/ProductRepository.java" afterDir="false" />
