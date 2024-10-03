@@ -5,23 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef9bf067-7136-47d1-97ee-18b0f06ca551" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../config-data/ms-gateway-service.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-client-service/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-client-service/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-client-service/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-client-service/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-client-service/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-client-service/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-client-service/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-client-service/HELP.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-client-service/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-client-service/target/classes/com/example/msclientservice/MsClientServiceApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-client-service/target/classes/com/example/msclientservice/controller/ClientController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-client-service/target/classes/com/example/msclientservice/entity/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-client-service/target/classes/com/example/msclientservice/repository/ClientRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-client-service/target/classes/com/example/msclientservice/service/ClientService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-client-service/target/classes/com/example/msclientservice/service/impl/ClientServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-client-service/target/test-classes/com/example/msclientservice/MsClientServiceApplicationTests.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ms-catalog/src/main/java/com/example/mscatalog/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ms-catalog/src/main/java/com/example/mscatalog/entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ms-catalog/src/main/java/com/example/mscatalog/repository/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ms-catalog/src/main/java/com/example/mscatalog/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ms-catalog/src/main/java/com/example/mscatalog/service/impl/ProductServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +41,12 @@
     "Maven.ms-gateway-server [clean].executor": "Run",
     "Maven.ms-gateway-server [compile].executor": "Run",
     "Maven.ms-gateway-server [install].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.MsGatewayServerApplication.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -89,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727922901373</updated>
-      <workItem from="1727922902489" duration="609000" />
+      <workItem from="1727922902489" duration="1690000" />
     </task>
     <servers />
   </component>
