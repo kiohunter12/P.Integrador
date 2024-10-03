@@ -18,4 +18,14 @@ spring:
           - id: ms-catalog-service
             uri: lb://ms-catalog-service
             predicates:
-              - Path=/category/**
+              - Path=/category/**, /product/**
+
+          - id: ms-client-service
+            uri: lb://ms-client-service
+            predicates:
+              - Path=/client/**
+
+          - id: ms-order-service
+            uri: lb://ms-order-service
+            predicates:
+              - Path=/order/**

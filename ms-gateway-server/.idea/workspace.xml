@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef9bf067-7136-47d1-97ee-18b0f06ca551" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../config-data/ms-order-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../config-data/ms-order-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-data/ms-gateway-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../config-data/ms-gateway-service.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1727922901373</updated>
       <workItem from="1727922902489" duration="1721000" />
-      <workItem from="1727958066654" duration="787000" />
+      <workItem from="1727958066654" duration="955000" />
     </task>
     <servers />
   </component>
